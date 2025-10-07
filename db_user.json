@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "nickname": "Alex",
+        "password_hash": "5911db26692487a04ebd53184d9f60cb5748b9337c24385e06480fec1de0962b",
+        "password_salt": "acWCoxkSHoFhMnWI",
+        "data": "Alex from Russia"
+    },
+    {
+        "id": 3,
+        "nickname": "Ivan",
+        "password_hash": "e1fb81825f824217371f20c71c17364d1b0d8510d75dcc880d40e6fd7a5f27c8",
+        "password_salt": "dGjysSixDQTDbTyv",
+        "data": "Ivan is studying at Moscow State University"
+    },
+    {
+        "id": 4,
+        "nickname": "John",
+        "password_hash": "29f76b41f6affb6244ad694d1f6fe89d9d0b2d7467aa4613161f48ca753880ea",
+        "password_salt": "MtYBNNxmsNuFwVEN",
+        "data": "John from America"
+    },
+    {
+        "id": 5,
+        "nickname": "Irina",
+        "password_hash": "fade07ea4abf7ddcbc940e532f03e335ca42a13a5d476e4cbcf893e6a969c7a5",
+        "password_salt": "EXSuQqwhlIbKrUug",
+        "data": "Irina works as a doctor"
+    },
+    {
+        "id": 6,
+        "nickname": "Dmitry",
+        "password_hash": "c21501434a45cf7b4020b8ee95fa2c90b44d4c0af39950ecf8555443377a98fb",
+        "password_salt": "dPEvijBdrCMJoEVw",
+        "data": "Dmitry likes to ride a bike"
+    },
+    {
+        "id": 7,
+        "nickname": "Don",
+        "password_hash": "ca9f2340184a6ce9948ff5b7a7986b829c2c364476de6b1e72b7e877c33536c8",
+        "password_salt": "SndmGZMoNohpuNmX",
+        "data": "Don perinion"
+    }
+]

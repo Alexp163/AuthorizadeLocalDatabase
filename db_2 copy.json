@@ -1,0 +1,9 @@
+[
+    {
+        "id": 2,
+        "nickname": "Alex",
+        "password_hash": "a5dac4e99ee8623a84bc8f35e49d0a2a8bc7a5a1b58937865742b10e403e8802",
+        "password_salt": "BRpFgzbDXBdNsRXW",
+        "data": "Alex from Russia"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "nickname": "Sam",
+        "password_hash": "2d5596269d64c93950e08940812b4c9702039163a46655292eb5b7732f705101",
+        "password_salt": "rgZjOLDeuPNMqTHQ",
+        "data": "string777"
+    },
+    {
+        "nickname": "John",
+        "password_hash": "1c1bd9ca33efcbc97033a83b71986c1ef5093b42f98c1e678e0a1e1b81f936c6",
+        "password_salt": "EuZQFfkwDXEbCdMi",
+        "data": " \u0414\u0436\u043e\u043d \u043b\u044e\u0431\u0438\u0442 \u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b."
+    },
+    {
+        "nickname": "Alex",
+        "password_hash": "641f1b31e6c8c33c8d5d591e66dd7922e61c3bf5d4bedc3f34c2b45226465f07",
+        "password_salt": "SYVJvblwVRDsGOwk",
+        "data": "Alex from Russia"
+    },
+    {
+        "nickname": "Dmitr",
+        "password_hash": "9a10232b7e2e105d84e7c84cb4c3956bd7dee985d60bd7cd8dbd062dfdbbf047",
+        "password_salt": "mTkudogkXJfSqDux",
+        "data": "Dmitr coca cola hello"
+    },
+    {
+        "nickname": "Andre",
+        "password_hash": "2c10259c9a9a44b183d5589c76d6bfb1f8d8f52532f193097392d158565cc8d9",
+        "password_salt": "mtyWVGoXhuHzTEzu",
+        "data": "Andre Andre"
+    }
+]
